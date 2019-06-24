@@ -18,5 +18,4 @@
 #import "ZFJFormCellDelegate.h"
 #import "ZFJFormTool.h"
 
-
 #endif /* ZFJFormKit_h */
