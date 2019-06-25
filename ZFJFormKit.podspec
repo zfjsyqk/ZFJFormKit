@@ -17,7 +17,8 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ZFJFormKit"
   spec.version      = "1.0.0"
-  spec.summary      = "通过整合数据和事件来配置不同类型的Cell来动态设置UITableView;Configure different types of Cells by integrating data and events to dynamically set up UITableView;"
+  spec.summary      = "通过整合数据和事件来配置不同类型的Cell来动态设置UITableView;
+Configure different types of Cells by integrating data and events to dynamically set up UITableView;"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
